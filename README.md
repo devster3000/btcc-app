@@ -1,10 +1,10 @@
-## btcc-app
+# BTCC
 
 **CURRENTLY UNDER DEVELOPMENT**
 
 A some-what simple sports app following the British Touring Car Championship.
 
-# Includes:
+## Includes:
 - Current/Previous championship standings
 - Driver/Team Profiles and Stats
 - Track stats and countdowns to race weekends
